@@ -1,8 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
+URL:http://arturpelczar.pl/festival.ical
 NAME:Outriders Festival
 X-WR-CALNAME:Outriders Festival
+DESCRIPTION:Outriders Festival
+X-WR-CALDESC:Outriders Festival
 BEGIN:VEVENT
 UID:ec00fc0c-1bc2-4471-9873-b3ce13f0f00d
 SEQUENCE:0
