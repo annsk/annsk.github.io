@@ -1,0 +1,554 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Outriders Festival
+X-WR-CALNAME:Outriders Festival
+BEGIN:VEVENT
+UID:ec00fc0c-1bc2-4471-9873-b3ce13f0f00d
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210624T160000Z
+DTEND:20210624T180000Z
+SUMMARY:\norientacja dla przyjezdnych – spotkanie na placu Jana Pawła I
+ I
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:2277549d-3241-4ef3-bd59-3f97d6c2cef9
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210624T180000Z
+DTEND:20210625T000000Z
+SUMMARY:\nimpreza otwarcia
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:005784eb-7d1b-422c-aff3-bd0905c7dd44
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210625T110000Z
+DTEND:20210625T120000Z
+SUMMARY:\nFilip Springer  - Ekologia – co dobrego jeszcze nas spotka? 
+DESCRIPTION:\nPojęcie kryzysu klimatycznego wywołuje strach wśród wiel
+ u\, którzy je słyszą. W głowach tworzą się scenariusze katastrofy\, 
+ która zbliża się do nas wielkimi krokami. Organizacje ekologiczne biją
+  na alarm i zachęcają do podjęcia odważnych kroków w kierunku poprawy
+  sytuacji. O tym\, co możemy zrobić i jak spojrzeć na klimatyczne wyzwa
+ nie jako problem do rozwiązania\, porozmawiamy z Filipem Springerem.
+END:VEVENT
+BEGIN:VEVENT
+UID:67afa944-1ca8-4afe-8166-0d3f5db1fb4d
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210625T120000Z
+DTEND:20210625T130000Z
+SUMMARY:\nNatalia Hatalska - Jaka będzie nasza przyszłość? 
+DESCRIPTION:\nRok 2020 zmienił cały świat pod bardzo wieloma względami
+ : ekonomicznymi\, społecznymi\, zdrowotnymi. Chcemy wspólnie zastanowić
+  się jak po takim przeobrażeniu mamy myśleć o przyszłości\, jakie tr
+ endy są widoczne na świecie i w jakich kierunkach rozwiniemy się jako s
+ połeczeństwo.\nO wyzwaniach ale i o możliwościach porozmawiamy z ekspe
+ rtką tej dziedziny\, Natalią Hatalską.
+END:VEVENT
+BEGIN:VEVENT
+UID:973a97d1-adb3-4015-bb3f-e50ec8989767
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210625T130000Z
+DTEND:20210625T140000Z
+SUMMARY:\nJustyna Suchecka - Czy nauka poszła w las? 
+DESCRIPTION:\nPandemia i zamknięcie szkół na ponad rok\, zmusiła naucz
+ ycieli\, uczniów a także samych rodziców do przeformowania podejścia d
+ o edukacji. Eksperci nie mają wątpliwości\, że konsekwencje będą wid
+ oczne przez lata. Jako skutki wymienia się ograniczenie kompetencji społ
+ ecznych\, uzależnienie od internetu czy nierówny dostęp do materiałów
+  online i zajęć.\nRównolegle już teraz mówi się o zmianie podejścia
+  w zarządzaniu i organizacji pracy szkół. A sami rodzice z większą tr
+ oską i uwagą pochylają się nad problemami dzieci z nauką.\nO tym\, cz
+ y poprzedni rok edukacji to wiedza\, która poszła w las i czy wyciągamy
+  z niej jakieś pozytywne efekty\, porozmawiamy z Justyną Suchecką\, dzi
+ ennikarką zajmującą się tematem edukacji.
+END:VEVENT
+BEGIN:VEVENT
+UID:fd28da2f-63d9-4bfc-93cb-80a3584fbef5
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210625T140000Z
+DTEND:20210625T150000Z
+SUMMARY:\nBartek Sabela - Wędrówka tusz 
+DESCRIPTION:\nKażdego roku na świecie zabijanych jest około 75 mld zwie
+ rząt hodowlanych oraz około 2\,3 tryliona ryb. Przemysłowa hodowla i pr
+ odukcja mięsa sprawiła\, że ciała zwierząt - poćwiartowane\, pokrojo
+ ne\, pieczone\, gotowane\, smażone lub surowe - są najtańszym i najłat
+ wiej dostępnym źródłem pożywienia. Czy w XXI wieku\, jako ludzkość\
+ , doszliśmy w końcu do punktu\, w którym zdamy sobie sprawę z okrucie
+ ństwa jakie czynimy innym gatunkom?
+END:VEVENT
+BEGIN:VEVENT
+UID:ff7ecdf1-012b-496c-9ed4-24cc74dd7762
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210625T150000Z
+DTEND:20210625T160000Z
+SUMMARY:\nKarolina Baca-Pogorzelska - Co z tym węglem? 
+DESCRIPTION:\nTo\, że węgiel kamienny jest czarny i brudzi wie już każ
+ dy. Ale czy jest to wciąż czarne złoto\, czy jednak czarny kłopot? W O
+ utriders kręcimy film dokumentalny o zmierzchu górnictwa energetycznego 
+ węgla kamiennego w Polsce i na świecie. Karolina opowie Wam o kulisach j
+ ego powstawania\, ale i o swoich kopalnianych doświadczeniach. Spróbuje 
+ Wam również wyjaśnić\, o co chodzi w polsko-czeskiej awanturze o węgi
+ el brunatny w Turowie.
+END:VEVENT
+BEGIN:VEVENT
+UID:337b8edb-dcb3-4ea3-9fa7-45901cbca65a
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210625T160000Z
+DTEND:20210625T170000Z
+SUMMARY:\nRafał Grobel - Na styku kultur: co wspólnego mają muzyka i ga
+ ming? 
+DESCRIPTION:\nMuzyka i technologia od wielu lat przecinają się\, żeby t
+ worzyć coraz lepsze ścieżki dźwiękowe czy bardziej widowiskowe efekty
+  muzyczne. Czy muzyka w dzisiejszych czasach może stworzyć mariaż z bar
+ dzo popularną kulturą gamingową?\nNa temat współpracy branży muzyczn
+ ej z rynkiem gier porozmawiamy z Rafałem Grobelem\, który od wielu lat 
+ łączy konwencjonalny marketing z nowymi technologiami.
+END:VEVENT
+BEGIN:VEVENT
+UID:8fd4e209-1044-43d1-ae55-c8aa3f32d026
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210625T170000Z
+DTEND:20210625T180000Z
+SUMMARY:\nMateusz Mazzini - Jak pracować poza Europą? Metodologia report
+ ażu zagranicznego 
+DESCRIPTION:\nJak powinien zachowywać się reporter pracujący w terenie 
+ obcym dla siebie kulturowo\, językowo\, historycznie i etnicznie? Jak stw
+ orzyć równowagę pomiędzy własną\, z definicji europejską\, perspekt
+ ywą\, a lokalnym punktem widzenia? Gdzie przebiega granica pomiędzy zroz
+ umieniem innych\, a ich orientalizacją? Ile siebie samego można wnieść
+  w teren badawczy? Jak ważne są definicje? Czy w ogóle istnieje metodol
+ ogia reportażu? Ten wykład z pewnością nie odpowie na wszystkie wymien
+ ione wyżej pytania\, ale spróbuje przynajmniej głośno je postawić - w
+  nadziei\, że przyczyni się to do otwarcia dyskusji o roli merytoryczneg
+ o przygotowania i samoświadomości autora w procesie terenowej pracy repo
+ rterskiej.
+END:VEVENT
+BEGIN:VEVENT
+UID:f055b47f-455e-4833-93d3-aeda75d7ce1b
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210625T180000Z
+DTEND:20210625T190000Z
+SUMMARY:\nOlga Gitkiewicz - Wykluczenie i mobilność - o ruchach Polaków
+  
+DESCRIPTION:\nPrzemieszczamy się. Codziennie. Do szkoły\, pracy\, do zna
+ jomych\, bliżej i dalej\, pieszo\, rowerem\, samochodem\, pociągiem\, au
+ tobusem\, tramwajem. Czy praktyki związane z codzienną mobilnością to 
+ nasz realny wybór? Co jest ważne\, podróż\, jej cel czy może środek\
+ , jakim docieramy do celu? A może te pytania tracą sens\, gdy zestawi si
+ ę je z danymi o skali wykluczenia komunikacyjnego w Polsce – zgodnie z 
+ nimi kilkanaście milionów Polaków i Polek nie może liczyć na sensowni
+ e zorganizowany transport zbiorowy\, i nie są to tylko osoby mieszkające
+  we wsiach i najmniejszych miejscowościach.
+END:VEVENT
+BEGIN:VEVENT
+UID:949f010f-db91-4182-931f-51d9d337206a
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210625T123000Z
+DTEND:20210625T133000Z
+SUMMARY:\nRafał Hetman - Spotkanie poświęcone książce \"Izbica\, Izbi
+ ca\" 
+DESCRIPTION:\nWystarczyło zaledwie tysiąc czterdzieści dziewięć dni\,
+  by w podlubelskim żydowskim miasteczku po dawnych mieszkańcach pozosta
+ ł tylko zryty przez poszukiwaczy złota cmentarz\, zamieniona w szalet sy
+ nagoga\, splądrowane domy i dwadzieścioro troje ocalałych\, z których 
+ żaden nie chciał tu zostać. Dziś o wojennych losach Izbicy przypomina 
+ jeszcze mniej: szkolna gablotka\, dwie drewniane kuczki\, zaniedbany kirku
+ t i skrawki wyszeptanych opowieści. Bo jak mówić na głos o tych\, któ
+ rzy odeszli na naszych oczach i często za naszym przyzwoleniem?Z Rafałem
+  Hetmanem porozmawiamy o jego książce \"Izbica\, Izbica\"
+END:VEVENT
+BEGIN:VEVENT
+UID:0bd19700-903d-432c-94f0-4a328cb0d099
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210625T133000Z
+DTEND:20210625T143000Z
+SUMMARY:\nMichał Kołodziejczyk - Spotkanie poświęcone książce \"Mecz
+  to pretekst. Futbol\, wojna\, polityka\" 
+DESCRIPTION:\nMożna nie kochać futbolu\, ale warto wiedzieć\, jak wpły
+ wa na ludzi. Można nie być kibicem\, ale warto zobaczyć\, jak kibicowan
+ ie daje ludziom głos. Czasem to głos rozpaczy\, bólu\, złości\, a cza
+ sem politycznej przynależności\, akceptacji albo zwykłego szczęścia.\
+ nPrzez wiele miesięcy w sześciu różnych krajach na własnej skórze au
+ torzy sprawdzali\, jak to działa: jak piłka nożna wpływa na miejsca i 
+ ludzi od lat żyjących w konflikcie\, jak te konflikty widać w drużynac
+ h i na trybunach.Z autorem\, Michałem Kołodziejczykiem\, porozmawiamy o 
+ książce \"Mecz to pretekst\"
+END:VEVENT
+BEGIN:VEVENT
+UID:57e477fb-1016-4b71-89e3-061bc98994de
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210625T143000Z
+DTEND:20210625T153000Z
+SUMMARY:\nKarolina Sulej - Spotkanie poświęcone książce \"Rzeczy osobi
+ ste\" 
+DESCRIPTION:\nOpowieść o ubraniach i rzeczach osobistych więźniów obo
+ zów koncentracyjnych wydaje się z pozoru prowokacyjna wobec narracji o w
+ ojnie\, bo moda w potocznym postrzeganiu jest fanaberią czasu pokoju i do
+ brobytu. Tymczasem autorka dociera do wielu świadectw\, do ocalałych\, k
+ tórzy mówią jej\, jak dbałość o wygląd w tych straszliwych miejscac
+ h dawała im siłę\, aby walczyć o życie.\nZ Karoliną Sulej porozmawia
+ my o książce \"Rzeczy osobiste\".
+END:VEVENT
+BEGIN:VEVENT
+UID:5a81e732-fafb-4091-a77b-4bea6bec4c3b
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210625T153000Z
+DTEND:20210625T170000Z
+SUMMARY:\nMarek Szymaniak  - Premiera książki \"Zapaść. Reportaże z m
+ niejszych miast\" 
+DESCRIPTION:\nWedług Polskiej Akademii Nauk niemal połowie z dwustu pię
+ ćdziesięciu pięciu średnich miast w Polsce grozi społeczno-ekonomiczn
+ a zapaść. Wyludnienie\, upadający przemysł\, bezrobocie\, problemy mie
+ szkaniowe\, utrudniony dostęp do ochrony zdrowia\, smog\, układy polityc
+ zne\, coraz starsi mieszkańcy. Autor książki próbuje ustalić\, co jes
+ t przyczyną tak fatalnej sytuacji\, a o szczerą odpowiedź prosi tych\, 
+ którym kryzys zagraża najbardziej. Podczas podróży po Polsce spotyka s
+ ię z mieszkańcami i miejskimi aktywistami\, rozmawia z samorządowcami\,
+  a oficjalne statystyki zestawia z rzeczywistością.Z autorem książki\,
+  Markiem Szymaniakiem\, porozmawiamy o książce \"Zapaść. Reportaże z 
+ mniejszych miast\"
+END:VEVENT
+BEGIN:VEVENT
+UID:52b023a6-c6da-4976-9ecf-a8aa8980eece
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210625T170000Z
+DTEND:20210625T190000Z
+SUMMARY:\n\"Świadkowie Putina\"\, reż. Witalij Manski (107 min) - pokaz 
+ filmu
+DESCRIPTION:\n31 grudnia 1999 roku Władimir Putin wstąpił na fotel prez
+ ydenta Rosji. Reżyser filmu Witalij Manski był szefem departamentu dokum
+ entalnego rosyjskiej telewizji publicznej\, kiedy kraj przechodził z epok
+ i Jelcyna do autorytarnego reżimu Putina. Był świadkiem tego\, jak Puti
+ n podjął pierwsze kroki\, aby zlikwidować demokratyczne reformy Jelcyna
+ . Na podstawie unikatowych materiałów z lat 1999-2000\, relacji świadk
+ ów oraz własnych doświadczeń stworzył niezwykle intymny portret Wład
+ imira Putina i przełomowego okresu w historii Rosji. Dziś sam reżyser m
+ ieszka na Łotwie\, a większość członków sztabu wyborczego Putina alb
+ o nie żyje\, albo mieszka poza granicami Rosji.
+END:VEVENT
+BEGIN:VEVENT
+UID:f9334244-68fd-40e3-aa13-de1810404343
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210625T190000Z
+DTEND:20210625T203400Z
+SUMMARY:\n\"Zjadanie zwierząt\"\, reż. Christopher Quinn (94 min) - poka
+ z filmu
+DESCRIPTION:\nSkąd tak naprawdę pochodzą kupowane przez nas jaja\, nabi
+ ał i mięso? Film opowiada o początkach końca hodowli przemysłowej. Wy
+ produkowany z udziałem Natalie Portman i pisarza Jonathana Safrana Foera 
+ jest adaptacją jego słynnej książki pod tym samym tytułem\, która st
+ ara się znaleźć odpowiedź na to istotne pytanie\, ukazując\, że hodo
+ wla przemysłowa to najgorsza rzecz\, jaką ludzie kiedykolwiek zrobili zw
+ ierzętom.Reżyserowi udało się dostać z ukrytą kamerą do ściśle ch
+ ronionych zakładów przetwórstwa żywności i ukazać\, co dzieje się z
+ a ich zamkniętymi drzwiami.  Oglądamy przerażające warunki\, w jakich 
+ żyją zwierzęta i atmosferę\, jaka towarzyszy ich zabijaniu. Poznajemy 
+ również historię kilku rolników\, którzy świadomie zdecydowali się 
+ odrzucić koncepcję hodowli przemysłowej i tym samym wytworzonych w ten 
+ sposób towarów na rzecz powrotu do korzeni.
+END:VEVENT
+BEGIN:VEVENT
+UID:eb242c27-a709-406a-8536-bd0abad535cf
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210626T100000Z
+DTEND:20210626T110000Z
+SUMMARY:\nLola García-Ajofrín - Człowiek kontra słoń – o losach zwi
+ erząt w Sri Lance (spotkanie w j. angielskim) 
+DESCRIPTION:\nSri Lanka odnotowuje największą liczbę zgonów słoni na 
+ świecie. Stało się alarmującym problemem ochrony na wyspie\, w którym
+  w 2019 roku\, w najbardziej śmiertelnym roku\, zabito 121 osób i 407 s
+ łoni. Outriders odwiedzili niektóre z poszkodowanych wiosek\, rozmawiali
+  z ofiarami i spotkali się ze Sri Lankami\, którzy pomagają redukować 
+ wrogość za pomocą jumbo - używają obroży GPS\, ogrodzeń elektryczny
+ ch\, alternatywnych upraw i ręcznie robionych gadżetów.
+END:VEVENT
+BEGIN:VEVENT
+UID:393f7c26-d262-4be8-8058-4d58cce31e80
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210626T110000Z
+DTEND:20210626T120000Z
+SUMMARY:\nAleksandra Rutkowska - Daleka pomoc – działania Polskiego Cen
+ trum Pomocy Międzynarodowej w krajach Globalnego Południa 
+DESCRIPTION:\nPCPM to zespół ekspertów i ekspertek od lat niosących po
+ moc humanitarną\, rozwojową i ratunkową na całym świecie. Z bliska ob
+ serwują jak pandemia wpłynęła na sytuację krajów Globalnego Południ
+ a. W 2020 roku rozszerzali stałe misje po katastrofach i kryzysach (Liban
+ \, Etiopia\, Syria)\, rozpoczynali nowe w ramach współpracy z WHO (Kirgi
+ stan\, Tadżykistan\, Madagaskar) i kontynuowali dotychczasowe (Sudan Poł
+ udniowy\, Kenia\, Palestyna). Doświadczenie gromadzone przez lata\, przek
+ azali po wybuchu pandemii (Włochy).
+END:VEVENT
+BEGIN:VEVENT
+UID:497835f8-f939-45f7-9b15-735ccac7a883
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210626T120000Z
+DTEND:20210626T130000Z
+SUMMARY:\nEmma Lacey-Bordeaux  - Pandemia w USA - wzloty i upadki? (spotka
+ nie w j. angielskim) 
+DESCRIPTION:\nRok 2020 był najbardziej śmiercionośnym w historii Stanó
+ w Zjednoczonych.  Na SARS-CoV-2 w USA zachorowało dotychczas ponad 33\,5 
+ miliona osób a pandemia pochłonęła blisko 600 tysięcy ofiar. Zamknię
+ cie granic m.in. z Unią Europejską miało duży wpływ na zachowanie si
+ ę rynków\, pandemia wpłynęła także na przypadki ksenofobii i rasizmu
+  względem Amerykanów pochodzenia azjatyckiego.\nZ Emma Lacey-Bordeaux z 
+ CNN porozmawiamy nt. wzlotów i upadków dotyczących pandemii w Stanach Z
+ jednoczonych w kontekście społecznym i politycznym.
+END:VEVENT
+BEGIN:VEVENT
+UID:9c44847e-091c-4ebd-aeed-a564113534be
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210626T130000Z
+DTEND:20210626T140000Z
+SUMMARY:\nFilip Skrońc - O sytuacji ludzi z albinizmem w Afryce 
+DESCRIPTION:\nW pierwszych latach XXI wieku zaczęto opowiadać o morderst
+ wach\, które mają miejsce na północy Tanzanii. Ofiarami były dzieci\,
+  kobiety i mężczyźni mający albinizm. Z ich części ciał czarownicy 
+ mieli robić amulety i eliksiry\, które przynoszą szczęście tym\, któ
+ rzy je zamówili. W mediach na całym świecie zaczęły pojawiać się hi
+ storie o kraju zanurzonym w czarach\, o porzuconych dzieciach\, kolejnych 
+ atakach\, morderstwach i rozkopanych grobach. Powstawały filmy\, fotorepo
+ rtaże i dziennikarskie teksty\, które opisywały proceder\, nie do końc
+ a rozumiejąc i skupiając się na jego podstawach. Ich zdecydowana więks
+ zość koncentrowała się na krwawych opisach i nieświadomie pogłębia
+ ła problem związany z prześladowaniami. Albinosi stali się figurą ret
+ oryczną\, a używany przez twórców język na wiele lat zmienił życie 
+ osób z albinizmem w koszmar.
+END:VEVENT
+BEGIN:VEVENT
+UID:72e049ca-e69e-4bb3-9b43-2e6bd25624bc
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210626T140000Z
+DTEND:20210626T150000Z
+SUMMARY:\nJulia Aleksiejewa i Piotr Andrusieczko - Dokąd zmierza sytuacja
+  w Białorusi i Ukrainie? 
+DESCRIPTION:\nSytuacja w Białorusi i Ukrainie cały czas zostaje niestabi
+ lna. W obu przypadkach są różne powody. W Ukrainie to ciągnąca się w
+ ojna na wschodzie kraju\, w Białorusi to skutek 26 lat rządów Alaksandr
+ a Łukaszenki. Jak zmienia się sytuacja w tych krajach na tle wydarzeń\,
+  opowiedzą Julia Aleksiejewa i Piotr Andrusieczko.
+END:VEVENT
+BEGIN:VEVENT
+UID:262b0b27-89c6-40f6-a27b-0c9959b62e96
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210626T150000Z
+DTEND:20210626T160000Z
+SUMMARY:\nMarek M. Berezowski  - „Not a Black Swan” - Polska w obliczu
+  SARS-CoV-2 
+DESCRIPTION:\nOstatni rok upłynął Markowi Berezowskim na fotografowaniu
+  pandemicznej rzeczywistości w Polsce. Jedno ze zdjęć z tego projektu z
+ ostało nagrodzone Grand Prix w 10. edycji konkursu Leica Street Photo. A 
+ o tym jak przemierzało się zamknięty kraj z północy na południe\, i 
+ ze wschodu na zachód w poszukiwaniu unikatowych kadrów\, tworząc wieloa
+ spektową opowieść będzie z autorem rozmawiał Patryk Wiśniewski.
+END:VEVENT
+BEGIN:VEVENT
+UID:986bfdbc-126c-4326-878c-bebdf1a510c3
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210626T160000Z
+DTEND:20210626T180000Z
+SUMMARY:\nAnna Cyklińska (PsychoEdu) i Cleo Ćwiek (Fundacja Można zwari
+ ować) - Podróż do siebie: jacy wychodzimy z pandemii? 
+DESCRIPTION:\nPandemia dotknęła wielu z nas nie tylko w kontekście fina
+ nsowym ale także psychicznym. Skutki pandemii widzimy w wielu obszarach: 
+ domowym\, relacji\, pracy a także zdrowia psychicznego.\nW trakcie spotka
+ nia porozmawiamy o tym jakie są długofalowe skutki izolacji\, jak się p
+ rzystosować do powrotu do normalności i jakie pozytywne rzeczy dla siebi
+ e możemy wyciągnąć z 2020 roku.\nTym sprawom przyjrzymy się wraz z An
+ ną Cyklińska i Cleo Ćwiek z fundacji Można Zwariować.
+END:VEVENT
+BEGIN:VEVENT
+UID:aba99114-af75-4bbc-9376-4922106e1425
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210626T180000Z
+DTEND:20210626T190000Z
+SUMMARY:\nDomenico Lancellotti + Moretti\, Zabrodzki i Domagalski - bossan
+ ova live 
+DESCRIPTION:\nKoncert brazylijskiego multiinstrumentalisty Domenico Lancel
+ lottiego wraz z polskim zespołem.\nZapraszamy na ucztę bossanovy i wresz
+ cie - spotkanie muzyczne na żywo!Na Outriders Festiwal wystąpi w składz
+ ie:Domenico Lancellotti – głos\, gitara\, MPC\nPiotr Zabrodzki – inst
+ rumenty klawiszowe\nPiotr Domagalski – bas
+END:VEVENT
+BEGIN:VEVENT
+UID:19a78d0e-742f-4583-9159-16907c677788
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210626T093000Z
+DTEND:20210626T103000Z
+SUMMARY:\nPatryk Wiśniewski -  Wolność fotografowania\, czyli jak post
+ ęp technologiczny zmienia fotografię 
+DESCRIPTION:\nHistoria fotografii jest ściśle związana z postępem tech
+ nologicznym. Kolejne udoskonalenia procesu fotograficznego sprawiały\, ż
+ e można było fotografować szybciej\, lżej\, wygodniej. Przejście ze s
+ zklanych płyt na błony fotograficzne usprawniało ten proces\, zminiatur
+ yzowało aparaty\, ale takich skoków technologicznych było zdecydowanie 
+ więcej. O tym jak fotografia zmieniała świat\, a świat zmieniał fotog
+ rafię w niezwykle szybkim kursie fotografii opowie Patryk Wiśniewski.
+END:VEVENT
+BEGIN:VEVENT
+UID:96975935-39e9-4308-9c20-28b768f25242
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210626T103000Z
+DTEND:20210626T113000Z
+SUMMARY:\nMaksym Rudnik - Podróżowanie dookoła domu 
+DESCRIPTION:\nKażde odwiedzane przez nas miejsce jest pełne tematów do 
+ fotografowania. Dalekie destynacje na “krańcu świata”\, podróż prz
+ ez Podlasie czy nasz dom rodzinny\, który często jest omijany przy wykon
+ ywaniu zdjęć\, niepostrzeżenie ignorując nasze najbliższe otoczenie j
+ ako coś \"ciekawego\" a tym bardziej unikatowego. Zachodnia cywilizacja z
+ amyka swoje domy i mieszkania przed przybyszami\, bunkrujemy swoją prywat
+ ność a niejednokrotnie to nasze najbliższe środowisko jest najbardziej
+  naturalnym i dostępnym tematem do fotografowania.
+END:VEVENT
+BEGIN:VEVENT
+UID:358268a3-24d2-4d1f-956b-a15e7ba675c7
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210626T113000Z
+DTEND:20210626T123000Z
+SUMMARY:\nMeg Szumska - Ziemia Ząbkowicka i Kłodzka - atrakcje tak brzyd
+ kie\, że musisz je zobaczyć! 
+DESCRIPTION:\nNagle świat się zamknął\, podróże zagraniczne zrobiły
+  się znów elitarne i niedostępne\, a Polska okazał się być dla nas z
+ a mała. Tłumy na szlakach\, tłumy w atrakcjach - jak przetrwać kolejne
+  wakacje w kraju?!\nNa podstawie dziwnych i brzydkich atrakcji Ziemi Kłod
+ zkiej i Ząbkowickiej\, dajcie zabrać się w podróż po miejscach który
+ ch nie ma na  komercyjnej mapie\, a co za tym idzie - nie ma w nich gofrow
+ ych tłumów.  A co jest? Autentyczność i miejsce na oddech dla każdego
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:4373ef3d-e430-4e44-8402-438e36e101ea
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210626T123000Z
+DTEND:20210626T133000Z
+SUMMARY:\nŁukasz Supergan - Wysiądź w pół drogi 
+DESCRIPTION:\nW 2020 roku świat zatrzymał się\, a nasze dotychczasowe 
+ życie\, zajęcia i plany uległy przewartościowaniu. W czasie pandemii p
+ odróżowanie i poznawanie świata zeszło na daleki plan. Czy zamknięci 
+ w granicach własnego kraju i swoich domach mamy jeszcze gdzie jechać? Ta
+ k - o ile zwrócimy się do \"tutaj\". Łukasz Supergan\, wędrując dotyc
+ hczas po długodystansowych szlakach świata\, wyszedł na nasze długie s
+ zlaki. Na bazie swoich wędrówek stworzył \"Szlaki Polski\" - przewodnik
+  po długodystansowych szlakach naszego kraju. \"Wysiądź w pół drogi\"
+  to opowieść o szukaniu własnych dróg w sąsiedztwie domu.
+END:VEVENT
+BEGIN:VEVENT
+UID:89a2c3a3-d057-424d-97e6-b80d8b0d09a3
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210626T133000Z
+DTEND:20210626T143000Z
+SUMMARY:\nArkadiusz Winiatorski i Ola Synowiec - Pieszo z Panamy do Kanady
+  
+DESCRIPTION:\nPrawie 12 000 km przemierzonych pieszo\, ponad półtora rok
+ u\, 9 krajów\, 19 par butów i jedna miłość. Arek Winiatorski po przej
+ echaniu Ameryki Południowej autostopem stwierdził\, że wciąż porusza 
+ się za szybko. By jeszcze lepiej poznawać świat\, postanowił od Panamy
+  przemierzać go... PIESZO! Przeszedł Amerykę Centralną zdobywając po 
+ drodze najwyższy szczyt każdego odwiedzanego kraju. Na południu Meksyku
+  poznał miłość swojego życia – Olę Synowiec\, z którą dotarł pi
+ eszo aż do Kanady. Razem zmierzyli się z własnymi słabościami\, niebe
+ zpieczeństwami drogi\, pustyniami\, mrozami\, ruchliwymi metropoliami i s
+ ięgającymi 3000 metrów przewyższeniami.
+END:VEVENT
+BEGIN:VEVENT
+UID:211436ad-5fd8-4583-b74d-64a7d2d931ac
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210626T143000Z
+DTEND:20210626T153000Z
+SUMMARY:\nBarbara Stawarz-García - Kuba nieodkryta 
+DESCRIPTION:\n„Tak ciężko jak jest teraz nie było nawet w kryzysie la
+ t 90.” - mówią Kubańczycy\, którzy w minionym roku zostali podwójni
+ e poszarpani. Co zrobił Trump na koniec swojego urzędowania? Jak na codz
+ iennym życiu i turystyce odbija się pandemia? Ile walut teraz ma Kuba? J
+ ak to możliwe\, że Kubańczycy mają swoją szczepionkę? Dowiedz się c
+ o słychać w najbardziej roztańczonym kraju świata!
+END:VEVENT
+BEGIN:VEVENT
+UID:3798075f-a28d-4d33-b2d5-3feb64a5f2a1
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210626T153000Z
+DTEND:20210626T170000Z
+SUMMARY:\nAleksandra Świstow - To my jesteśmy obcy\, nie kraje 
+DESCRIPTION:\nPodróżowanie jest silnym motorem przemian gospodarczych i 
+ kulturowych. Nie jest obojętne ani dla środowiska naturalnego\, ani dla 
+ społeczności\, które odwiedzamy. To ważne\, aby starać się ogranicza
+ ć negatywny wpływ na naszą planetę w podróży\, unikać atrakcji\, kt
+ óre są przyczyną cierpienia ludzi i zwierząt\, podróżować bardziej 
+ świadomie i odpowiedzialnie\, z szacunkiem i próbą zrozumienia miejsc i
+  kultur\, które nas goszczą.
+END:VEVENT
+BEGIN:VEVENT
+UID:7d2bca6f-c198-440d-ae10-7864c7289d3a
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210626T170000Z
+DTEND:20210626T190000Z
+SUMMARY:\n\"Odbudować Paradise\"\, reż. Ron Howard (95 min) - pokaz film
+ u
+DESCRIPTION:\n8 listopada 2018 u podnóża wzgórz Sierra Nevada wybuchł 
+ najtragiczniejszy pożar w historii Kalifornii\, który zdewastował miast
+ eczko Paradise. W wyniku szalejącego ognia zginęło 85 osób. 14 tysięc
+ y domostw zamieniło się w popiół\, zmuszając do ucieczki kilkadziesi
+ ąt tysięcy mieszkańców. Reżyser i zdobywca Oskara Ron Howard („Pię
+ kny umysł”) postanowił natychmiast pojechać na miejsce tragedii. Zost
+ ał z mieszkańcami dłużej niż ekipy telewizyjne relacjonujące tę tra
+ gedię. Społeczność Paradise organizuje się\, i z godną podziwu deter
+ minacją stara się odbudować swoje nigdyś idylliczne miasto. Pragną ta
+ kże oskarżyć tych\, przez których doszło do tej tragedii. Rownocześn
+ ie część rozbitków z Paradise wybierajednak ucieczkę z miasta i chce 
+ zapomnieć. Czy w takiej sytuacji uda się odbudować rajskie Paradise?
+END:VEVENT
+BEGIN:VEVENT
+UID:c4b8d0cb-ba30-450d-b493-488fa9e6c7f2
+SEQUENCE:0
+DTSTAMP:20210622T193706Z
+DTSTART:20210626T190000Z
+DTEND:20210626T201900Z
+SUMMARY:\n\"Nowy\, lepszy człowiek\"\, reż. Tommy Pallota\, Femke Woltin
+ g (79 min) - pokaz filmu
+DESCRIPTION:\nTwórcy filmu postanowili zbudować robota\, który zastąpi
+  ich w roli filmowców. Bo jeśli robot potrafi nauczyć się samodzielnie
+  składać ręcznik\, to może pewnego dnia będzie mógł też zrobić op
+ erację lub prowadzić wojnę? Film inicjuje debatę o potencjale sztuczne
+ j inteligencji. Konfrontuje nas również z etycznymi dylematami dotycząc
+ ymi sposobu\, w jaki jest programowana i wartości przyświecających prac
+ y naukowców.Szybki rozwój sztucznej inteligencji i jej znaczący wpływ 
+ na nasze życie jest faktem. Samojezdne auta\, na własną rękę poszukuj
+ ące celu drony\, technologie pozwalające rządom zbierać nasze dane oso
+ bowe – jesteśmy otoczeni przez inteligentne maszyny. Coraz częściej o
+ czekujemy też od nich\, że nas poznają\, zrozumieją i przewidzą nasze
+  potrzeby.
+END:VEVENT
+END:VCALENDAR
