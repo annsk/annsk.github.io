@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Napisy na ścianie</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      @font-face {
+        font-family: "bookerly";
+        src: url("/bookerly-regular-webfont.woff2") format("woff2"),
+          url("/bookerly-regular-webfont.woff") format("woff");
+        font-weight: normal;
+        font-style: normal;
+      }
+
+      @font-face {
+        font-family: "bookerly";
+        src: url("/bookerly-bold-webfont.woff2") format("woff2"),
+          url("/bookerly-bold-webfont.woff") format("woff");
+        font-weight: bold;
+        font-style: normal;
+      }
+
+      body {
+        font-family: bookerly, Georgia, "Times New Roman", serif;
+        font-size: 20px;
+        text-align: justify;
+        width: 100%;
+        margin: 0px;
+        padding: 1em;
+        box-sizing: border-box;
+      }
+
+      div {
+        width: 100%;
+      }
+
+      .key {
+        font-size: 28px;
+        font-weight: bold;
+        text-transform: uppercase;
+      }
+    </style>
+
+  </head>
+  <body>
+    <div lang="pl">
+      <p><span class="key">CIESZ SIĘ</span> małymi rzeczami</p>
+      <p><span class="key">Rób</span> to, co się uszczęśliwia</p>
+      <p><span class="key">Śmiej</span> się tyle, ile oddychasz</p>
+      <p><span class="key">Tańcz</span> jakby nikt nie patrzył</p>
+      <p><span class="key">Kochaj</span> tak długo, jak żyjesz</p>
+      <p><span class="key">Żyj</span> tak, aby niczego nie żałować</p>
+      <p>
+        <span class="key">Bądź</span> z tym, kto sprawia, że ​​się uśmiechasz
+      </p>
+    </div>
+    <div lang="en">
+      <p><span class="key">Enjoy</span> the little things</p>
+      <p><span class="key">Do</span> what makes you happy</p>
+      <p><span class="key">Laugh</span> as much as you breathe</p>
+      <p><span class="key">Dance</span> like nobody's watching</p>
+      <p><span class="key">Love</span> as long as you live</p>
+      <p><span class="key">Live</span> with no regrets</p>
+      <p><span class="key">Be</span> with who makes you smile</p>
+    </div>
+    <div lang="ru">
+      <p><span class="key">Наслаждайся</span> мелочами</p>
+      <p><span class="key">Делай</span> то, что заставляет тебе чувствовать себя счастливым</p>
+      <p><span class="key">Смейся</span> столько, сколько ты дышишь</p>
+      <p><span class="key">Танцуй</span> так, как будто на тебя никто не смотрит</p>
+      <p><span class="key">Люби</span> до тех пор, пока ты живешь</p>
+      <p><span class="key">Живи</span> до тех пор, пока ты живешь</p>
+      <p><span class="key">Будь</span> с теми, кто заставляет тебя улыбаться</p>
+    </div>
+    <div lang="uk">
+      <p><span class="key">Насолоджуйся</span> мелочами</p>
+      <p><span class="key">Роби</span> те, що робить тебе щасливим</p>
+      <p><span class="key">Смійся</span> стільки, скільки дихаєш</p>
+      <p><span class="key">Танцюй</span> так, ніби на тебе ніхто не дивиться</p>
+      <p><span class="key">Кохай</span> так довго, як живеш</p>
+      <p><span class="key">Живи</span> так, щоб ні про що не шкодувати</p>
+      <p><span class="key">Будь</span> с тим, хто змушує тебе усміхатися</p>
+    </div>
+    <script>
+      var lang = navigator.language || navigator.userLanguage;
+      if (lang.indexOf('pl') == 0) {
+        document.querySelectorAll('div:not([lang="pl"]').forEach(el => el.style.display = 'none');
+      } else if (lang.indexOf('ru') == 0) {
+        document.querySelectorAll('div:not([lang="ru"]').forEach(el => el.style.display = 'none');
+      } else if (lang.indexOf('uk') == 0) {
+        document.querySelectorAll('div:not([lang="uk"]').forEach(el => el.style.display = 'none');
+      } else {
+        document.querySelectorAll('div:not([lang="en"]').forEach(el => el.style.display = 'none');
+      }
+    </script>
+  </body>
+</html>
